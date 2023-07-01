@@ -1,4 +1,4 @@
-# Dapp for Transparent Tax System using Blockchain 
+# Dapp for Transparent Tax System using Blockchain
 
 ## Introduction
 Tax evasion is a major problem for the economy, and it affects everyone. But with the help of blockchain technology, we can create a digital ledger that tracks compliance and ensures a transparent tax system. The DGGI recently sent notices for tax evasion of Rs 2,250 crore, which shows the urgency to address this issue. 
