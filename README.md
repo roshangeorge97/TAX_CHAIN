@@ -42,3 +42,8 @@ Once you have these installed, you can follow these steps to run the project:
 
 ## Conclusion
 This Dapp provides a solution to the problem of tax evasion by utilizing blockchain technology to create a transparent tax system. By generating a unique QR code for each product and allowing consumers to trace the product's journey from source to store, we can ensure compliance and reduce losses. The use of Polygon chain provides faster and cheaper transactions, making it a viable solution for real-world applications.
+
+## Collborators
+- [Vishnu Kasilya](https://github.com/VishnuAmit)
+- [Akilesh Rao](https://github.com/akileshraos)
+
